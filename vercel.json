@@ -1,0 +1,10 @@
+{
+  "buildCommand": "next build",
+  "devCommand": "next dev",
+  "framework": "nextjs",
+  "installCommand": "npm install",
+  "regions": ["fra1"],
+  "env": {
+    "NEXT_PUBLIC_PROJECT_ID": "farcaster-frames-template"
+  }
+}

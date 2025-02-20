@@ -1,6 +1,6 @@
 ```markdown
 ### Core
-[ ] Initialize project structure with config files and directories  
+[x] Initialize project structure with config files and directories  
 - **Implementation**: Create package.json, vercel.json, public/, .gitignore  
 - **Validation**: Files exist, `npm install` succeeds, git repo initialized  
 
